@@ -5,6 +5,6 @@
 ## Contexts
 
 1. 가계부 서비스
-    - https://tails5555.github.io/js_app/budget_app/
+    - https://tails5555.github.io/js_app/budget_app/index.html
 2. 즉석 스네이크 게임
-    - https://tails5555.github.io/js_app/snake_app/
+    - https://tails5555.github.io/js_app/snake_app/index.html
