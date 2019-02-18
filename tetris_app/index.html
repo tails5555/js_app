@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Tetris App</title>
+    <style>
+      canvas{
+          display: block;
+          margin: 0 auto;
+      }
+      #score {
+        display : inline-block;
+      }
+
+      div {
+        text-align : center;
+        font-size : 25px;
+        font-weight : bold;
+        font-family : 맑은 고딕;
+      }
+    </style>
+  </head>
+  <body>
+    <canvas id="tetris" width="200" height="400"></canvas>
+    <div>
+        점수 : <div id="score">0</div>
+    </div>
+    <!-- tetromino.js 는 테트로미노 조각들 블록 모양을 그리기 위해 필요한 로직들입니다. -->
+    <script src="tetromino.js"></script>
+    <!-- index.js 는 테트리스 게임에 필요한 메인 로직들입니다. -->
+    <script src="index.js"></script>
+  </body>
+</html>
