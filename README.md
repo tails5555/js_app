@@ -1,3 +1,10 @@
-# Free Code Camp JS Examples
+# JavaScript Application Tutorial
 
-Free Code Camp JavaScript 에서 강의한 예제를 클론했습니다.
+순수 자바스크립트로 간단한 게임과 서비스를 제작합니다.
+
+## Contexts
+
+1. 가계부 서비스
+    - https://tails5555.github.io/js_app/budget_app/
+2. 즉석 스네이크 게임
+    - https://tails5555.github.io/js_app/snake_app/
