@@ -12,3 +12,6 @@
 
 3. 즉석 테트리스 게임
    - https://tails5555.github.io/js_app/tetris_app/index.html
+
+4. Flappy Bird 게임
+   - https://tails5555.github.io/js_app/flappy_app/index.html 
